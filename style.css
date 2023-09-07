@@ -15,3 +15,8 @@ ul {
     font: 28px;
     color: darkred;
 }
+
+img {
+    width: auto;
+    height: 700px;
+}
