@@ -20,3 +20,8 @@ img {
     width: auto;
     height: 700px;
 }
+
+div {
+    font-size: 30px;
+    text-align: center;
+}
